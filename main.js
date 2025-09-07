@@ -14,7 +14,7 @@ $(document).ready(function () {
                 $("#glow").remove();
 
                 // Update the text and fade in
-                txt.hide().html("Wish you a happy birthday Maria").delay(750).fadeIn(300);
+                txt.hide().html("Wish you a happy birthday Meklit").delay(750).fadeIn(300);
 
                 // Animate the candle to dim
                 $("#candle").animate(
